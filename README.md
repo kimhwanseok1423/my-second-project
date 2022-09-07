@@ -47,7 +47,7 @@
          Staging Area의 파일을 Working 
          Directory로 가져옴
 
-![Git Sheat Sheet](asset/git12345.gif)
+![Git Sheat Sheet](asset/git12345.jpg)
     
 
 
